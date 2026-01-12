@@ -1,0 +1,9 @@
+Date(dd/MM/yyyy),Time(HH:mm:ss),Event(Text),Data/Comment(Text),Duration
+12/01/2026,10:34:24,Patient Name,zsuj,--
+12/01/2026,10:34:24,Mode,None,--
+12/01/2026,10:33:06,Time of Birth,--,
+12/01/2026,10:33:07,Baby wrapped and Waves seen,--,0 m 0 s
+12/01/2026,10:33:07,Placenta Out,--,0 m 0 s
+12/01/2026,10:34:20,Cord Cut,--,0 m 51 s
+12/01/2026,10:34:20,Pitocin given,--,0 m 0 s
+12/01/2026,10:34:20,APGAR,--,0 m 0 s
